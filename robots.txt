@@ -1,0 +1,6 @@
+# TechGen CTF beginner lab
+# The clue for Flag 2 is below.
+User-agent: *
+Disallow: /techgen-ctf/no-bots/
+# Follow this path on the same website:
+# /techgen-ctf/no-bots/flag-two.html
